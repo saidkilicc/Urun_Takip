@@ -208,9 +208,9 @@
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label10.Location = new System.Drawing.Point(49, 32);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(181, 20);
+            this.label10.Size = new System.Drawing.Size(178, 20);
             this.label10.TabIndex = 0;
-            this.label10.Text = "Toplam Kategori Sayısı";
+            this.label10.Text = "En Yüksek Ürün Sayısı";
             // 
             // panel6
             // 
@@ -238,9 +238,9 @@
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label12.Location = new System.Drawing.Point(49, 32);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(181, 20);
+            this.label12.Size = new System.Drawing.Size(213, 20);
             this.label12.TabIndex = 0;
-            this.label12.Text = "Toplam Kategori Sayısı";
+            this.label12.Text = "Küçük Ev Aletleri Kar Oranı";
             // 
             // panel7
             // 
@@ -268,9 +268,9 @@
             this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label14.Location = new System.Drawing.Point(49, 32);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(181, 20);
+            this.label14.Size = new System.Drawing.Size(175, 20);
             this.label14.TabIndex = 0;
-            this.label14.Text = "Toplam Kategori Sayısı";
+            this.label14.Text = "Beyaz Eşya Kar Oranı";
             // 
             // panel8
             // 
@@ -298,9 +298,9 @@
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label16.Location = new System.Drawing.Point(49, 32);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(181, 20);
+            this.label16.Size = new System.Drawing.Size(184, 20);
             this.label16.TabIndex = 0;
-            this.label16.Text = "Toplam Kategori Sayısı";
+            this.label16.Text = "Toplam Satış Kar Oranı";
             // 
             // FrmIstatistik
             // 
