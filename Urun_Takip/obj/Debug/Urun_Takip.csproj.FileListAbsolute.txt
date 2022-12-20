@@ -1,0 +1,13 @@
+C:\Users\saidk\source\repos\Urun_Takip\Urun_Takip\bin\Debug\Urun_Takip.exe.config
+C:\Users\saidk\source\repos\Urun_Takip\Urun_Takip\bin\Debug\Urun_Takip.exe
+C:\Users\saidk\source\repos\Urun_Takip\Urun_Takip\bin\Debug\Urun_Takip.pdb
+C:\Users\saidk\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.csproj.AssemblyReference.cache
+C:\Users\saidk\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\saidk\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.Form1.resources
+C:\Users\saidk\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.Properties.Resources.resources
+C:\Users\saidk\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.csproj.GenerateResource.cache
+C:\Users\saidk\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.csproj.CoreCompileInputs.cache
+C:\Users\saidk\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.exe
+C:\Users\saidk\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.pdb
+C:\Users\saidk\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.FrmUrun.resources
+C:\Users\saidk\source\repos\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.FrmIstatistik.resources
