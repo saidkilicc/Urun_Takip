@@ -30,7 +30,7 @@ namespace Urun_Takip
             }
             baglanti.Close();
 
-            //Toplam Ürün Sayısı
+            //Toplam Ürün Sayısı Sonuc
             baglanti.Open();
             SqlCommand komut2 = new SqlCommand("select Count(*) from TblUrunler", baglanti);
             SqlDataReader dr2 = komut2.ExecuteReader();
